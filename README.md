@@ -5,7 +5,7 @@
 You can clone & create this repo with the following command
 
 ```bash
-pnpm create next-app WebAr --example "https://github.com/vercel/nextjs-postgres-auth-starter"
+pnpm create next-app WebAr --example "https://github.com/tombombadilom/WebAR"
 ```
 
 ## Getting Started
