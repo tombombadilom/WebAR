@@ -1,4 +1,6 @@
-# WebAR with Aframe, Ar.js, TensorFlow.js, Next.js Prisma PostgreSQL Auth
+# WebAR Web APP with Aframe, Ar.js, TensorFlow.js, Next.js Prisma PostgreSQL Auth
+
+Development still pending ... 
 
 ## Developing Locally
 
