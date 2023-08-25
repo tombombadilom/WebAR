@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://nextjs-postgres-auth.vercel.app/">
-    <img src="/public/logo.png" height="96">
-    <h3 align="center">WebAR with Aframe, Ar.js, TensorFlow.js, Next.js Prisma PostgreSQL Auth </h3>
-  </a>
-</p>
+# WebAR with Aframe, Ar.js, TensorFlow.js, Next.js Prisma PostgreSQL Auth
 
 ## Developing Locally
 
