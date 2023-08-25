@@ -9,10 +9,20 @@ You can clone & create this repo with the following command
 ```bash
 pnpm create next-app WebAr --example "https://github.com/tombombadilom/WebAR"
 ```
+## Deploy on vercel using vercel client
 
+```
+pnpm i -g vercel@latest
+
+```
 ## Getting Started
+First create the .env.local file
 
-First, run the development server:
+Then run vercel link
+
+Then run vercel env pull .env.development.local
+
+Then, run the development server:
 
 ```bash
 pnpm dev
